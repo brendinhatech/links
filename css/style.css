@@ -67,7 +67,7 @@ html,
             height: 1px;
             margin-top: -1px;
             border: none;
-            background: linear-gradient(to right, transparent, #d5d5d5, transparent);
+            background: linear-gradient(to right, transparent, #F7E4C6, transparent);
         }
 
         #profile {
