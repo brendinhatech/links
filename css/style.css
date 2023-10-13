@@ -60,7 +60,7 @@ html,
             left: 3px;
         }
         h3 {
-            color: red;
+            color: #875346;
         }
 
         hr {
@@ -68,7 +68,7 @@ html,
             height: 1px;
             margin-top: -1px;
             border: none;
-            background: linear-gradient(to right, transparent, #F7E4C6, transparent);
+            background: linear-gradient(to right, transparent, #875346, transparent);
         }
 
         #profile {
@@ -77,7 +77,7 @@ html,
         }
 
         #profile h3 {
-            color: grey;
+            color: #875346;
         }
 
         #profile span {
@@ -99,16 +99,16 @@ html,
         }
 
         #profile a {
-            color: #999;
+            color: #FB9274;
             text-decoration: none;
             transition: color .2s ease;
         }
 
         #profile a:hover {
-            color: #ddb39b;
+            color: #875346;
         }
 
         #profile h3 {
-            color: #ddb39b;
+            color: #875346;
             font-size: 15px;
         }
